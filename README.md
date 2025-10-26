@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FlavioGallegos
-- 👀 I’m interested in learning learning and collaborating
+- 👀 I’m Interested in learning how to develop BLOCKCHAIN
 - 🌱 I’m currently learning how to use github
-- 💞️ I’m looking to collaborate on RM-Cobol 85, Pascal, and others and other old programming languages
+- 💞️ I'm looking to join the best community to achieve my professional goals.
 - 📫 How to reach me sendme a email flaviogallegos@gmail.com.
 
 <!---
